@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer</h3>
 <br />
 
-- 🔭 I’m currently working on [Whitebox Music](https://github.com/enesskilic/whitebox-music)
+<!-- - 🔭 I’m currently working on [Whitebox Music](https://github.com/enesskilic/whitebox-music) -->
 
 - 🌱 I’m currently learning **Javascript and React**
 
