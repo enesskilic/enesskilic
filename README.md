@@ -1,10 +1,8 @@
 <h2 align="left">Hi 👋, I'm Enes</h2>
 <h3 align="left">A passionate frontend developer</h3>
-<br />
-
 <!-- - 🔭 I’m currently working on [Whitebox Music](https://github.com/enesskilic/whitebox-music) -->
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I write articles on [dev.to](https://dev.to/enesskilic)
 
