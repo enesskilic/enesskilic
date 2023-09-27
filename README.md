@@ -2,11 +2,11 @@
 <h3 align="left">A passionate frontend developer</h3>
 <!-- - 🔭 I’m currently working on [Whitebox Music](https://github.com/enesskilic/whitebox-music) -->
 
-- 🌱 I’m currently learning **React.js**
+🔭 I’m currently working on **C# / .NET**
 
 - 📝 I write articles on [dev.to](https://dev.to/enesskilic)
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/enes-k%C4%B1l%C4%B1%C3%A7/) &nbsp;|&nbsp; [E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=eneskilicc06@gmail.com)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/enes-k%C4%B1l%C4%B1%C3%A7/) &nbsp;|&nbsp; [E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=eneskilic.iletisim@gmail.com)
 <br />
 
 <!-- <h3 align="left">Languages and Tools</h3>
