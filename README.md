@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Enes</h2>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">Software Developer</h3>
 <!-- - 🔭 I’m currently working on [Whitebox Music](https://github.com/enesskilic/whitebox-music) -->
 
 - 🔭 I’m currently working on **C# / .NET**
